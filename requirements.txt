@@ -51,7 +51,7 @@ PySocks==1.6.8
 python-dateutil==2.6.1
 pytz==2017.3
 pywin32==223
-PyYAML==3.12
+PyYAML==5.1
 queuelib==1.4.2
 requests==2.18.4
 rsa==3.4.2
