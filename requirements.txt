@@ -22,7 +22,7 @@ future==0.16.0
 geopy==1.11.0
 googleads==9.0.0
 gspread==0.6.2
-httplib2==0.10.3
+httplib2==0.18.0
 hyperlink==18.0.0
 idna==2.6
 incremental==17.5.0
