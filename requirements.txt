@@ -54,7 +54,7 @@ pywin32==223
 PyYAML==5.1
 queuelib==1.4.2
 requests==2.20.0
-rsa==3.4.2
+rsa==4.1
 scipy==1.0.0
 Scrapy==1.5.0
 service-identity==17.0.0
